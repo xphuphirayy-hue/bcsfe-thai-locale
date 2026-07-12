@@ -1,0 +1,1 @@
+# bcsfe-thai-locale
